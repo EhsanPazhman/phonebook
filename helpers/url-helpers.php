@@ -1,5 +1,5 @@
 <?php
-function site_url($uri)
+function site_url($uri = '')
 {
     return $_ENV['DOMAIN'] . $uri;
 }

@@ -43,7 +43,7 @@
                                 <td class=""><?= $contact['mobile'] ?></td>
                                 <td class=""><?= $contact['email'] ?></td>
                                 <td class="col-1">
-                                    <a href="<?= site_url("") ?>"><img src="<?= asset_url('images/delete-icon.png') ?>"></a>
+                                    <a href="<?= site_url("contact/delete/{$contact['id']}") ?>"><img src="<?= asset_url('images/delete-icon.png') ?>"></a>
                                 </td>
                             </tr>
                         <?php endforeach ?>
