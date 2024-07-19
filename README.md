@@ -6,9 +6,9 @@
   <p align="center">
     small phonebook project
     <br>
-    <a href="https://github.com/mgazori/microphp/issues">Report Bug </a>
+    <a href="https://github.com/EhsanPazhman/phonebook/issues">Report Bug </a>
     |
-     <a href="https://github.com/mgazori/microphp/issues"> Request Feature</a>
+     <a href="https://github.com/EhsanPazhman/phonebook/issues"> Request Feature</a>
   </p>
 </p>
 
@@ -36,7 +36,7 @@ be successful and victorious.
 - vlucas/phpdotenv
 
 ## Bugs in the project
-My good friend, if you find a bug in this framework, you can let me and other friends know via GitHub. [https://github.com/EhsanPazhman/micro-Framework/issues](https://github.com/EhsanPazhman/phonebook/issues)
+My good friend, if you find a bug in this framework, you can let me and other friends know via GitHub. [https://github.com/EhsanPazhman/phonebook/issues](https://github.com/EhsanPazhman/phonebook/issues)
 
 ## Contact with me
  - By Email [ehsanpazhman@gmail.com](mailto:ehsanpazhman@gmail.com)
